@@ -18,4 +18,4 @@ public class Desafio2 {
 		}
 		sc.close();
 	}
-}
+} 
