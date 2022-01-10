@@ -12,4 +12,4 @@ public class Desafio1 {
 			System.out.println("0");
 		sc.close();
 	}
-} 
+}  
